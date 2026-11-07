@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["FNF"," R "," R "],
+  "key": {"F":{"item":"minecraft:fire_charge"},"N":{"item":"minecraft:netherite_ingot"},"R":{"item":"minecraft:blaze_rod"}},
+  "result": { "id": "relics:meteor_staff", "count": 1 }
+}

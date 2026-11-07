@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "relics",
+  "version": "${version}",
+  "name": "Titan Relics",
+  "description": "Ten absurdly powerful relics.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.relics.RelicsMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

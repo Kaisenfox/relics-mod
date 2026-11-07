@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["HAH"," R "," R "],
+  "key": {"H":{"item":"minecraft:heart_of_the_sea"},"A":{"item":"minecraft:golden_apple"},"R":{"item":"minecraft:blaze_rod"}},
+  "result": { "id": "relics:lifebloom_staff", "count": 1 }
+}

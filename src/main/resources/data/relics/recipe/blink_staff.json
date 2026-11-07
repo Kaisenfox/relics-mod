@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["PEP"," R "," R "],
+  "key": {"P":{"item":"minecraft:ender_pearl"},"E":{"item":"minecraft:ender_eye"},"R":{"item":"minecraft:blaze_rod"}},
+  "result": { "id": "relics:blink_staff", "count": 1 }
+}

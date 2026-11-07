@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["CEC","ENE","CEC"],
+  "key": {"C":{"item":"minecraft:crying_obsidian"},"E":{"item":"minecraft:ender_eye"},"N":{"item":"minecraft:nether_star"}},
+  "result": { "id": "relics:black_hole_orb", "count": 1 }
+}

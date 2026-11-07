@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["GGG","GCG","GNG"],
+  "key": {"G":{"item":"minecraft:gold_ingot"},"C":{"item":"minecraft:clock"},"N":{"item":"minecraft:nether_star"}},
+  "result": { "id": "relics:chrono_watch", "count": 1 }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["LNL"," R "," R "],
+  "key": {"L":{"item":"minecraft:lightning_rod"},"N":{"item":"minecraft:nether_star"},"R":{"item":"minecraft:blaze_rod"}},
+  "result": { "id": "relics:thunder_scepter", "count": 1 }
+}
